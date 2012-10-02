@@ -14,3 +14,11 @@ Curso JS · 1 de Octubre de 2010
 ----
 
 · Herencia: Clásica, de prototipos, mixins, herecia funcional (extra)
+· Herencia: Clásica, de prototipos, mixins, herecia funcional (extra)
+· Cásica: El prototipo de un objeto debe ser siempre una instancia de un objeto o un objeto literal
+
+
+2 de Octubre de 2010
+
+· Ejemplos prácticos de herencia
+
