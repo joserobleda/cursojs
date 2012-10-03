@@ -1,6 +1,8 @@
 Curso JS
 -----
 
+Tema 1
+
 1 de Octubre de 2012
 
 * Las funciones de un objeto deben ser entendidas como mensajes hacía un receptor [receptor.js]
@@ -23,8 +25,10 @@ Curso JS
 
 2 de Octubre de 2012
 
-* Ejemplos prácticos de herencia
+* Ejemplos prácticos de herencia de clases: Class.extends()
 
 3 de Octubre de 2012
 
-*
+* Herencia de prototipos: clone()
+* Ámbitos: Clausuras
+* Herencia funcional: {};
