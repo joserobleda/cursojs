@@ -1,7 +1,7 @@
 Curso JS
 -----
 
-1 de Octubre de 2010
+1 de Octubre de 2012
 
 * Las funciones de un objeto deben ser entendidas como mensajes hacía un receptor [receptor.js]
 * Toda funcion en js es también un objeto, por ello tienen métodos
@@ -21,7 +21,10 @@ Curso JS
 * Cásica: El prototipo de un objeto debe ser siempre una instancia de un objeto o un objeto literal
 
 
-2 de Octubre de 2010
+2 de Octubre de 2012
 
 * Ejemplos prácticos de herencia
 
+3 de Octubre de 2012
+
+*
