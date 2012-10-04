@@ -14,7 +14,6 @@
 * Los prototipos se resuelven dinámicamente
 * Un prototipo siempre ha de ser un objeto, nunca una función
 
-
 ----
 
 * Herencia: Clásica, de prototipos, mixins, herecia funcional (extra)
@@ -31,3 +30,10 @@
 * Herencia de prototipos: clone()
 * Ámbitos: Clausuras
 * Herencia funcional: {};
+
+###Tema 2
+
+####3 de Octubre de 2012
+
+* S.O.L.I.D.
+* SRP: Single Responsabilitity Principle
