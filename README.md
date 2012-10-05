@@ -37,3 +37,8 @@
 
 * S.O.L.I.D.
 * SRP: Single Responsabilitity Principle
+
+####4 de Octubre de 2012
+
+* Encapsulamiento y namespaces
+* Mixins
