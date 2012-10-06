@@ -42,3 +42,18 @@
 
 * Encapsulamiento y namespaces
 * Mixins
+
+####5 de Octubre de 2012
+
+* Factoría
+* Decorador
+* Fachada
+* Proxy
+
+######Patrones de Interacción
+
+* Observer
+* Mediator
+* Comandos
+* Cadena de Responsabilidad
+* Hydra

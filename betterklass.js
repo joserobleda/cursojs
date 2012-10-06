@@ -79,6 +79,9 @@
     return Klass;
   };
 
+
+  exports.Class = Class;
+/*
 var MiClase = Class.extend({
   init : function(){ }
 });
