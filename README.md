@@ -57,3 +57,10 @@
 * Comandos
 * Cadena de Responsabilidad
 * Hydra
+
+
+####8 de Octubre de 2012
+
+* DSL - myTemplateSystem.j
+* DSL Eventos - dslevents.js
+* DSL FSM - 
